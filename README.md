@@ -1,2 +1,8 @@
-A script to compute simple interest based on principal, rate, and time. This repository demonstrates fundamental GitHub best practices and includes comprehensive supporting documentation to guide contributors and ensure a positive collaborative environment.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
